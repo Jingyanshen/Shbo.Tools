@@ -1,0 +1,4 @@
+﻿[*.{cs,vb}]
+
+# IDE0029: 使用 COALESCE 表达式
+dotnet_style_coalesce_expression = true:suggestion
