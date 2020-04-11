@@ -55,6 +55,12 @@
     <Compile Include="Database\DataExt.cs" />
     <Compile Include="Database\DataTableBuilder.cs" />
     <Compile Include="Database\DataTableHelper.cs" />
+    <Compile Include="DateTimeExt\ChineseCalendar.cs" />
+    <Compile Include="DateTimeExt\DateInfoStruct.cs" />
+    <Compile Include="DateTimeExt\DateTimeHelper.cs" />
+    <Compile Include="DateTimeExt\DateUtil.cs" />
+    <Compile Include="DateTimeExt\TimeHelper.cs" />
+    <Compile Include="DateTimeExt\WeekHolidayStruct.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="Hardware\CpuInfo.cs" />
     <Compile Include="Hardware\CPU_INFO.cs" />
