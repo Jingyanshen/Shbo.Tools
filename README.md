@@ -1,1 +1,3 @@
 # Shbo.Tools
+Strings 
+
